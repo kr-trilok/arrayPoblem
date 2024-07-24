@@ -11,3 +11,6 @@ this repo is totally for array practice question
 
 3. Problem3 --->
     Binary Search.
+
+4. Problem4 --->
+    Selection Sort
