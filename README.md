@@ -9,3 +9,6 @@ this repo is totally for array practice question
 
 2. Problem2 --->
     Lenear Search.
+
+3. Problem3 --->
+    Binary Search.
