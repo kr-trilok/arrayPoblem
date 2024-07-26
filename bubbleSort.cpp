@@ -22,7 +22,7 @@ void bubbleSort(vector<int>&arr,int size){
                 xchange++;
 
             }
-        }if(xchange == 0){    // *****comparing the no occurences of xchanges with 0s true then loop will terminated****
+        }if(xchange == 0){    // comparing the no occurences of xchanges with 0s true then loop will terminated
             break;
         } 
     }
@@ -37,7 +37,9 @@ int main(){
     cin>>size;
 
     cout<<"enter element in your vector\n";
+    
     for(int i=0; i<size; i++){
+
         int ele;
         cin>>ele;
         arr.push_back(ele);
