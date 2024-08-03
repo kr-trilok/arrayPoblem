@@ -39,7 +39,6 @@ int main(){
     cout<<"enter element in your vector\n";
     
     for(int i=0; i<size; i++){
-
         int ele;
         cin>>ele;
         arr.push_back(ele);
