@@ -22,7 +22,7 @@ void bubbleSort(vector<int>&arr,int size){
                 xchange++;
 
             }
-        }if(xchange == 0){    // comparing the no occurences of xchanges with 0s true then loop will terminated
+        }if(xchange == 0){    // ******comparing the no occurences of xchanges with 0s true then loop will terminated*****
             break;
         } 
     }
